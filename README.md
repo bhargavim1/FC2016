@@ -1,2 +1,2 @@
 # FC2016
-For the foundation course of MAS
+This is created for the foundation course of MAS
