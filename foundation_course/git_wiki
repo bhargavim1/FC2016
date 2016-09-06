@@ -1,1 +1,8 @@
-fds
+git clone - to create a local clone
+git branch - to see which branch 
+git remote (add/remove/-v)- to add/remove/know remote we are using to push/fetch files
+git status - check if local repository is in sync
+git diff - get changes made(also staging status)
+git add - add to staging
+git commit (-m) - to submit
+git push - push to repo through remote
